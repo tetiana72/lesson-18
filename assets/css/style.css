@@ -6487,25 +6487,8 @@ textarea.form-control-lg {
 }
 
 .accordion-button {
-  position: relative;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  width: 100%;
-  padding: var(--bs-accordion-btn-padding-y) var(--bs-accordion-btn-padding-x);
-  font-size: 1rem;
   color: saddlebrown;
-  text-align: left;
   background-color: burlywood;
-  border: 0;
-  border-radius: 0;
-  overflow-anchor: none;
-  -webkit-transition: var(--bs-accordion-transition);
-  -o-transition: var(--bs-accordion-transition);
-  transition: var(--bs-accordion-transition);
 }
 
 .text-center {
